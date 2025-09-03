@@ -9,7 +9,7 @@ export default defineConfig({
   resolve: {
     alias: {
       "@": path.resolve(__dirname, "./src"),
-      base: "/My Protfolio",
-    }
-  }
+    },
+  },
+  base: process.env.VITE_BASE_PATH || "/My-Protfolio",
 });
