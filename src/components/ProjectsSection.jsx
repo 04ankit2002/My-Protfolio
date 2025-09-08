@@ -16,7 +16,7 @@ const projects = [
     description:
       "Interactive analytics dashboard with data visualization and filtering capabilities.",
     image: "/projects/project2.png",
-    tags: ["TypeScript", "D3.js", "Next.js"],
+    tags: ["JavaScript", "React", "Node.js", "MongoDB"],
     demoUrl: "#",
     githubUrl: "https://github.com/04ankit2002/Imagify",
   },
