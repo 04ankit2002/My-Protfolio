@@ -59,7 +59,7 @@ export const ContactSection = () => {
                     href="mailto:hello@gmail.com"
                     className="text-muted-foreground hover:text-primary transition-colors"
                   >
-                    hello@gmail.com
+                    44ankitchauhan@gmail.com
                   </a>
                 </div>
               </div>
@@ -73,7 +73,7 @@ export const ContactSection = () => {
                     href="tel:+11234567890"
                     className="text-muted-foreground hover:text-primary transition-colors"
                   >
-                    +91 (123) 456-7890
+                    +91 6395638720
                   </a>
                 </div>
               </div>
@@ -93,13 +93,13 @@ export const ContactSection = () => {
             <div className="pt-8">
               <h4 className="font-medium mb-4"> Connect With Me</h4>
               <div className="flex space-x-4 justify-center">
-                <a href="#" target="_blank">
+                <a href="https://www.linkedin.com/in/ankit-chauhan04/" target="_blank">
                   <Linkedin />
                 </a>
                 <a href="#" target="_blank">
                   <Twitter />
                 </a>
-                <a href="#" target="_blank">
+                <a href="https://www.instagram.com/ankit.arogya/" target="_blank">
                   <Instagram />
                 </a>
                 <a href="#" target="_blank">

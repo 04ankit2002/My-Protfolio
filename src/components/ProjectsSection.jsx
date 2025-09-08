@@ -3,22 +3,22 @@ import { ArrowRight, ExternalLink, Github } from "lucide-react";
 const projects = [
   {
     id: 1,
-    title: "SaaS Landing Page",
+    title: "GenUI: AI Component Generator",
     description: "A beautiful landing page app using React and Tailwind.",
     image: "/projects/project1.png",
-    tags: ["React", "TailwindCSS", "Supabase"],
+    tags: ["React", "AI", "JavaScript"],
     demoUrl: "#",
-    githubUrl: "#",
+    githubUrl: "https://github.com/04ankit2002/AI-Component-Generator",
   },
   {
     id: 2,
-    title: "Orbit Analytics Dashboard",
+    title: "AI Text to Image Generator",
     description:
       "Interactive analytics dashboard with data visualization and filtering capabilities.",
     image: "/projects/project2.png",
     tags: ["TypeScript", "D3.js", "Next.js"],
     demoUrl: "#",
-    githubUrl: "#",
+    githubUrl: "https://github.com/04ankit2002/Imagify",
   },
   {
     id: 3,
